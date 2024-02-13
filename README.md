@@ -39,3 +39,12 @@ The provided Python code uses libraries such as Matplotlib, Pandas, Statsmodels,
 | ETS     | 21199.5| 0.447 | 15205.5 | 4.494e+08      | 0.0328  | 934.3 | 967.8  |
 | STL     | 29019.4| 0.619 | 22926.1 | 8.421e+08      | 0.05    | 990.6 | 1000.4 |
 | SARIMAX | 23762.1| 0.5   | 16338.4 | 5.646e+08      | 0.0354  | 821.5 | 826.6  |
+
+### Conclusion 
+
+
+In concluding this study, we have undertaken a detailed examination of median housing prices in the Dallas-Fort Worth-Arlington area from August 1, 2017, to June 1, 2023. Our primary objective has been to furnish stakeholders in the real estate sector with insightful perspectives, employing three distinct forecasting models: Exponential Smoothing (ETS), Seasonal-Trend decomposition using LOESS (STL), and Seasonal Autoregressive Integrated Moving Average with eXogenous regressors (SARIMAX).
+
+Each model has exhibited varying degrees of precision, with ETS yielding a RMSE of 21,199.5, STL manifesting 29,019.4, and SARIMAX registering 23,762.1. These numerical metrics, complemented by graphical representations, facilitate a nuanced comprehension of the temporal dynamics inherent in median housing prices.
+
+
